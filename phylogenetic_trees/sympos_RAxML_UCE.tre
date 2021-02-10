@@ -1,0 +1,186 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=84;
+	taxlabels
+	myiagra_ruficollis_kunhm22725
+	symposiachrus_guttulaanwcb24527
+	symposiachrus_guttulaanwcb27032
+	symposiachrus_guttulaanwcb27073
+	symposiachrus_guttulaanwcb27117
+	symposiachrus_guttulaanwcb55912
+	symposiachrus_guttulaanwcb57717
+	symposiachrus_guttulacas96788
+	symposiachrus_guttulacas96803
+	symposiachrus_guttulacas97850
+	symposiachrus_guttulacas97925
+	symposiachrus_guttulakunhm12246
+	symposiachrus_guttulakunhm31373
+	symposiachrus_guttulakunhm4845
+	symposiachrus_guttulakunhm5291
+	symposiachrus_guttulakunhm5556
+	symposiachrus_guttulakunhm6959
+	symposiachrus_guttulakunhm7264
+	symposiachrus_guttulakunhm7618
+	symposiachrus_guttulakunhm9548
+	symposiachrus_guttulakunhm9618
+	symposiachrus_guttulawama26554
+	symposiachrus_guttulawama26600
+	symposiachrus_guttulawama26601
+	symposiachrus_guttulawama26609
+	symposiachrus_triviratuswam24256
+	symposiachrus_triviratuswam24496
+	symposiachrus_trivirgatus_bimaculatusamnh467781
+	symposiachrus_trivirgatus_bimaculatusamnh467789
+	symposiachrus_trivirgatus_bimaculatusypm75916
+	symposiachrus_trivirgatus_diadematuszmuc149596
+	symposiachrus_trivirgatus_diadematuszmuc149614
+	symposiachrus_trivirgatus_melanopteruscas96789
+	symposiachrus_trivirgatus_melanopteruscas96791
+	symposiachrus_trivirgatus_melanopteruscas97886
+	symposiachrus_trivirgatus_melanopteruscas97967
+	symposiachrus_trivirgatus_nigrimentiumzmuc148270
+	symposiachrus_trivirgatus_nigrimentiumzmuc148295
+	symposiachrus_trivirgatus_nigrimentumamnh654694
+	symposiachrus_trivirgatus_nigrimentumamnh654697
+	symposiachrus_trivirgatusanwcb28828
+	symposiachrus_trivirgatusanwcb28832
+	symposiachrus_trivirgatusanwcb28833
+	symposiachrus_trivirgatusanwcb29721
+	symposiachrus_trivirgatusanwcb29813
+	symposiachrus_trivirgatusanwcb29885
+	symposiachrus_trivirgatusanwcb31138
+	symposiachrus_trivirgatusanwcb31240
+	symposiachrus_trivirgatusanwcb31273
+	symposiachrus_trivirgatusanwcb31274
+	symposiachrus_trivirgatusanwcb31322
+	symposiachrus_trivirgatusanwcb31374
+	symposiachrus_trivirgatusanwcb31388
+	symposiachrus_trivirgatusanwcb31434
+	symposiachrus_trivirgatusanwcb31449
+	symposiachrus_trivirgatusanwcb31450
+	symposiachrus_trivirgatusanwcb32725
+	symposiachrus_trivirgatusanwcb41382
+	symposiachrus_trivirgatusanwcb41383
+	symposiachrus_trivirgatusanwcb41449
+	symposiachrus_trivirgatusanwcb42928
+	symposiachrus_trivirgatusanwcb43078
+	symposiachrus_trivirgatusanwcb43114
+	symposiachrus_trivirgatusanwcb43225
+	symposiachrus_trivirgatusanwcb43246
+	symposiachrus_trivirgatusanwcb43673
+	symposiachrus_trivirgatusanwcb43719
+	symposiachrus_trivirgatusanwcb46873
+	symposiachrus_trivirgatusanwcb46888
+	symposiachrus_trivirgatusanwcb51427
+	symposiachrus_trivirgatusanwcb53036
+	symposiachrus_trivirgatusanwcb56095
+	symposiachrus_trivirgatusanwcb56096
+	symposiachrus_trivirgatusanwcb57065
+	symposiachrus_trivirgatusanwcb57069
+	symposiachrus_trivirgatusanwcb57083
+	symposiachrus_trivirgatusanwcb57103
+	symposiachrus_trivirgatusanwcb57190
+	symposiachrus_trivirgatusanwcb57201
+	symposiachrus_trivirgatusanwcb57204
+	symposiachrus_trivirgatusanwcb57205
+	symposiachrus_trivirgatusanwcb57216
+	symposiachrus_trivirgatusanwcb57217
+	symposiachrus_trivirgatusanwcb57291
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((symposiachrus_triviratuswam24496:8.18E-4,symposiachrus_triviratuswam24256:8.18E-4)[&label=100]:9.49E-4,((symposiachrus_trivirgatusanwcb43078:0.001149,symposiachrus_trivirgatusanwcb57204:0.001159)[&label=51]:2.42E-4,(((((symposiachrus_trivirgatusanwcb57205:0.001142,symposiachrus_trivirgatusanwcb57103:0.00129)[&label=98]:2.34E-4,(symposiachrus_trivirgatusanwcb41382:0.001173,symposiachrus_trivirgatusanwcb28833:0.001118)[&label=91]:2.37E-4)[&label=77]:1.33E-4,((((((symposiachrus_trivirgatusanwcb31274:9.23E-4,symposiachrus_trivirgatusanwcb31138:9.24E-4)[&label=49]:2.21E-4,((symposiachrus_trivirgatusanwcb43246:9.4E-4,symposiachrus_trivirgatusanwcb43225:9.17E-4)[&label=71]:2.12E-4,symposiachrus_trivirgatusanwcb57291:9.93E-4)[&label=11]:1.36E-4)[&label=4]:9.3E-5,(((symposiachrus_trivirgatusanwcb29813:9.95E-4,symposiachrus_trivirgatusanwcb31322:9.07E-4)[&label=12]:2.13E-4,(symposiachrus_trivirgatusanwcb31374:0.001016,(symposiachrus_trivirgatusanwcb46888:8.7E-4,symposiachrus_trivirgatusanwcb29885:0.001011)[&label=43]:1.98E-4)[&label=45]:1.62E-4)[&label=7]:9.0E-5,((symposiachrus_trivirgatusanwcb46873:9.55E-4,symposiachrus_trivirgatusanwcb31449:8.73E-4)[&label=34]:1.99E-4,(symposiachrus_trivirgatusanwcb31240:9.6E-4,symposiachrus_trivirgatusanwcb29721:9.15E-4)[&label=57]:2.08E-4)[&label=26]:1.17E-4)[&label=7]:9.3E-5)[&label=18]:1.07E-4,((symposiachrus_trivirgatusanwcb41449:0.001,symposiachrus_trivirgatusanwcb31273:9.83E-4)[&label=61]:2.15E-4,((symposiachrus_trivirgatusanwcb43673:9.24E-4,symposiachrus_trivirgatusanwcb32725:9.94E-4)[&label=25]:1.84E-4,(symposiachrus_trivirgatusanwcb31450:8.93E-4,symposiachrus_trivirgatusanwcb43719:9.36E-4)[&label=44]:2.17E-4)[&label=26]:1.09E-4)[&label=12]:1.15E-4)[&label=25]:1.24E-4,((symposiachrus_trivirgatusanwcb41383:9.0E-4,symposiachrus_trivirgatusanwcb53036:0.001152)[&label=10]:1.85E-4,(symposiachrus_trivirgatusanwcb56095:9.78E-4,symposiachrus_trivirgatusanwcb57083:9.48E-4)[&label=61]:1.97E-4)[&label=6]:9.9E-5)[&label=43]:1.2E-4,((symposiachrus_trivirgatusanwcb31434:9.78E-4,symposiachrus_trivirgatusanwcb51427:0.001082)[&label=28]:2.1E-4,(symposiachrus_trivirgatusanwcb31388:9.52E-4,(symposiachrus_trivirgatusanwcb56096:0.001022,symposiachrus_trivirgatusanwcb28828:0.00103)[&label=33]:1.78E-4)[&label=12]:8.4E-5)[&label=45]:1.13E-4)[&label=75]:9.0E-5)[&label=80]:9.1E-5,((symposiachrus_trivirgatusanwcb43114:0.001133,symposiachrus_trivirgatusanwcb57069:0.001154)[&label=12]:2.08E-4,(symposiachrus_trivirgatusanwcb42928:0.001172,symposiachrus_trivirgatusanwcb28832:0.001132)[&label=64]:2.02E-4)[&label=11]:9.1E-5)[&label=10]:9.1E-5,((symposiachrus_trivirgatusanwcb57065:0.001056,symposiachrus_trivirgatusanwcb57190:0.001132)[&label=51]:2.05E-4,(symposiachrus_trivirgatusanwcb57217:0.001192,(symposiachrus_trivirgatusanwcb57216:0.001167,symposiachrus_trivirgatusanwcb57201:0.001092)[&label=37]:1.94E-4)[&label=55]:1.5E-4)[&label=9]:8.8E-5)[&label=19]:9.8E-5)[&label=100]:3.99E-4)[&label=100]:4.6E-4,(symposiachrus_trivirgatus_melanopteruscas96789:6.53E-4,(symposiachrus_trivirgatus_melanopteruscas96791:7.28E-4,(symposiachrus_trivirgatus_melanopteruscas97886:6.64E-4,symposiachrus_trivirgatus_melanopteruscas97967:7.03E-4)[&label=98]:1.61E-4)[&label=82]:1.64E-4)[&label=100]:0.00147)[&label=100]:2.42E-4,(((((symposiachrus_guttulaanwcb24527:0.001642,symposiachrus_guttulaanwcb55912:0.001605)[&label=40]:2.29E-4,(symposiachrus_guttulaanwcb27117:0.001332,symposiachrus_guttulakunhm5291:0.001688)[&label=49]:2.34E-4)[&label=67]:1.5E-4,((symposiachrus_guttulakunhm9548:0.001763,(symposiachrus_guttulakunhm12246:0.00133,symposiachrus_guttulakunhm7264:0.001637)[&label=78]:2.43E-4)[&label=89]:2.14E-4,(((symposiachrus_guttulaanwcb27032:0.001647,(symposiachrus_guttulaanwcb57717:0.00148,symposiachrus_guttulaanwcb27073:0.001586)[&label=48]:2.52E-4)[&label=35]:1.68E-4,(symposiachrus_guttulakunhm9618:0.001528,symposiachrus_guttulakunhm6959:0.001415)[&label=53]:2.58E-4)[&label=30]:1.23E-4,((symposiachrus_guttulacas96803:0.001402,symposiachrus_guttulacas96788:0.001321)[&label=100]:4.98E-4,(symposiachrus_guttulacas97925:0.001548,symposiachrus_guttulacas97850:0.001577)[&label=100]:3.22E-4)[&label=48]:1.38E-4)[&label=64]:1.19E-4)[&label=99]:1.38E-4)[&label=55]:1.01E-4,((symposiachrus_guttulakunhm5556:0.001642,symposiachrus_guttulakunhm4845:0.001552)[&label=49]:2.3E-4,(symposiachrus_guttulakunhm31373:0.001707,symposiachrus_guttulakunhm7618:0.001647)[&label=43]:2.28E-4)[&label=67]:1.36E-4)[&label=100]:1.75E-4,(((symposiachrus_trivirgatus_nigrimentiumzmuc148295:0.001165,symposiachrus_trivirgatus_nigrimentiumzmuc148270:0.001025)[&label=93]:2.11E-4,((symposiachrus_trivirgatus_nigrimentumamnh654694:0.002688,symposiachrus_trivirgatus_nigrimentumamnh654697:0.002505)[&label=51]:4.13E-4,((symposiachrus_trivirgatus_diadematuszmuc149596:8.44E-4,symposiachrus_trivirgatus_diadematuszmuc149614:8.1E-4)[&label=100]:4.74E-4,(symposiachrus_trivirgatus_bimaculatusypm75916:0.001152,(symposiachrus_trivirgatus_bimaculatusamnh467781:0.00103,symposiachrus_trivirgatus_bimaculatusamnh467789:0.001828)[&label=100]:4.22E-4)[&label=100]:5.04E-4)[&label=100]:2.48E-4)[&label=48]:1.36E-4)[&label=100]:5.35E-4,(symposiachrus_guttulawama26554:0.001141,((symposiachrus_guttulawama26600:9.49E-4,symposiachrus_guttulawama26601:6.7E-4)[&label=84]:3.42E-4,symposiachrus_guttulawama26609:9.67E-4)[&label=100]:3.15E-4)[&label=100]:9.4E-4)[&label=97]:2.27E-4)[&label=100]:1.98E-4):0.007919,myiagra_ruficollis_kunhm22725:0.007919);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
