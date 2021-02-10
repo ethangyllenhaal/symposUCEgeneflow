@@ -1,5 +1,7 @@
 # symposUCEgeneflow
+
 README by: Ethan Gyllenhaal
+
 Last updated: 10 February 2021
 
 Repository for scripts and some input files used in a study investigating gene flow in a subset of the members in the genus Symposiachrus, focusing on interactions in the S. trivirgatus complex and S. guttula. If you use something here, please cite us, or contact EFG on who is best to cite (and remind him if he forgets to update the citation):
@@ -10,6 +12,7 @@ This README describes the scripts and data files used for a project assessing mu
 
 _______________________________
 ------ PopGen Input Files -----
+
 -- (sympos_popgen_input.zip) --
 _______________________________
 
@@ -31,6 +34,7 @@ symposiachrus_mtDNA_inputs.zip - Fasta files for each mitochondrial region, used
 
 ________________________________
 ------------ Scripts -----------
+
 -- (sympos_analysis_code.zip) --
 ________________________________
 
@@ -57,6 +61,7 @@ sympos_dadi_run.py - Script made for running dadi models. Process is described i
 process_dadi_output.py - Script made for turning the messy output from "sympos_dadi_run.py" into more concise output files (*.out). Then uses those files to output the best run for each model based on log likelihoods calculated by dadi.
 ______________________________
 --------- Tree Files ---------
+
 -- (sympos_phylo_trees.zip) --
 ______________________________
 
